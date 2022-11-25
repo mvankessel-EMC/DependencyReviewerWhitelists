@@ -4,7 +4,7 @@ Darwin whitelisted packages
 This repository houses the whitelist of packages that [DependencyReviewer](https://github.com/darwin-eu/DependencyReviewer/) looks at for whitelisting.
 
 ## Whitelist information
-Use this issue to request dependencies to be whitelisted.
+Create a new issue to request dependencies to be whitelisted.
 
 Currently whitelisted packages, with their dependencies:
 
