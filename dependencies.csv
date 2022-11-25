@@ -10,3 +10,6 @@ package,version
 "shinyAce","0.4.2"
 "shinyjs","2.1.0"
 "tidygraph","1.2.2"
+"arrow","10.0.0",
+"waldo","0.4.0",
+"CDMConnector","0.1.0"
