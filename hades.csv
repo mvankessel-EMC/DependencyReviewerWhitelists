@@ -1,4 +1,4 @@
-"OHDSI/package","version"
+"package","version"
 "OHDSI/CohortMethod","*"
 "OHDSI/SelfControlledCaseSeries","*"
 "OHDSI/SelfControlledCohort","*"
