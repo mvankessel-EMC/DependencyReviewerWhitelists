@@ -22,3 +22,4 @@ package,version
 "rjson","0.2.21"
 "googleVis","0.7.0"
 "OdyOSG/CDMConnector","0.1.0"
+"git2r","0.31.0"
