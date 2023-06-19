@@ -4,7 +4,6 @@
 "OHDSI/SelfControlledCohort","*"
 "OHDSI/EvidenceSynthesis","*"
 "OHDSI/PatientLevelPrediction","*"
-"OHDSI/DeepPatientLevelPrediction","*"
 "OHDSI/EnsemblePatientLevelPrediction","*"
 "OHDSI/Characterization","*"
 "OHDSI/Capr","*"
