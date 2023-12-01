@@ -6,6 +6,7 @@ package,version
 "DrugUtilisation","*"
 "DrugExposureDiagnostics","*"
 "TreatmentPatterns","*"
+"CodelistGenerator","*"
 "darwin-eu/CohortSurvival","*"
 "darwin-eu-dev/OMOPGenerics","*"
 "darwin-eu-dev/deckR","*"
