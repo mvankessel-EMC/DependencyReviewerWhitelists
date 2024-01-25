@@ -6,7 +6,6 @@
 "OHDSI/EnsemblePatientLevelPrediction","*"
 "OHDSI/Characterization","*"
 "OHDSI/Capr","*"
-"OHDSI/CirceR","*"
 "OHDSI/CohortGenerator","*"
 "OHDSI/PhenotypeLibrary","*"
 "OHDSI/CohortDiagnostics","*"
