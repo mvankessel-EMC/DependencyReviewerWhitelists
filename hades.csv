@@ -27,3 +27,6 @@
 "OHDSI/ROhdsiWebApi","*"
 "OHDSI/ShinyAppBuilder","*"
 "OHDSI/SqlRender","*"
+"OHDSI/PatientLevelPrediction","*"
+"OHDSI/OhdsiSharing","*"
+"OHDSI/ParallelLogger","*"
