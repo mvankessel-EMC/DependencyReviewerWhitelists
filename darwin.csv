@@ -9,7 +9,6 @@ package,version
 "darwin-eu/CodelistGenerator","*"
 "darwin-eu/CohortSurvival","*"
 "darwin-eu-dev/OMOPGenerics","*"
-"darwin-eu-dev/deckR","*"
 "darwin-eu-dev/ReportGenerator","*"
 "checkmate","2.1.0"
 "desc","1.4.2"
